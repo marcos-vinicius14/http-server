@@ -1,0 +1,6 @@
+/home/marcos/Documents/Studies/http-server/src/main/java/dev/marcos/App.java
+/home/marcos/Documents/Studies/http-server/src/main/java/dev/marcos/http/HttpParser.java
+/home/marcos/Documents/Studies/http-server/src/main/java/dev/marcos/http/HttpRequest.java
+/home/marcos/Documents/Studies/http-server/src/main/java/dev/marcos/http/HttpResponse.java
+/home/marcos/Documents/Studies/http-server/src/main/java/dev/marcos/routing/Router.java
+/home/marcos/Documents/Studies/http-server/src/main/java/dev/marcos/tcp/TcpServer.java
